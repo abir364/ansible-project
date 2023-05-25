@@ -1,0 +1,4 @@
+---
+http_host: library.com
+server: 192.168.0.64
+repository: https://github.com/abir364/library-1.git
